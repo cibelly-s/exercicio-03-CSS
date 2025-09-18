@@ -1,0 +1,22 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /*a fonte que eu quero("formato" da letra*/
+}
+h3{
+    color: blue;
+
+}
+.c{
+    border: 3px solid rgb(15, 1, 211); /*borda*/
+    border-radius: 8px; /*curvatura da borda*/
+    width: 300px; /*largura*/
+    padding: 15px; /*espaçamento interno (espaço entre as letras)*/
+    margin-left: 400px; /*margem(espaço) left(onde eu queria esse espaço)*/
+    margin-bottom: 30px;/*a mesma coisa q o de cima.*/
+}
+.d{
+    background-color: red;
+}
+.l{
+    background-color: blue;
+}
